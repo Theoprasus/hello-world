@@ -8,4 +8,5 @@ creato il mio repository hello-world
 creato un readme cioè un file di descrizione sul master
 creato un nuovo branch 
 modificato il readme del nuovo branch in modo da fare un commit ed eventualmente un merge d
-delle modifiche
+delle modific
+già già
